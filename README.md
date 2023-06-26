@@ -88,4 +88,14 @@ The current version assumes that the backend code uses FastAPI and the frontend 
 
 ## Conclusion
 
-This tool has the potential to reduce development time
+This tool has the potential to reduce development time and improve code consistency by linking backend functionality directly with frontend visualizations. It's a good starting point for any project that employs Python FastAPI for backend and React for frontend.
+
+To see the parser in action, please check out this step-by-step [tutorial video](https://www.loom.com/share/109e718fcb5f4f11ac13bf0486652ae6?sid=b03d7d5f-74d2-4918-865e-6a27b1d0221f).
+
+## Code Contributors
+
+This script has been developed with the contribution of multiple developers. We welcome any feedback, bug reports, or feature requests. Please feel free to contact us or open an issue on this repository. Happy coding!
+
+## License
+
+This project is licensed under the terms of the MIT license.
